@@ -1,0 +1,3502 @@
+﻿{
+  "version": 43,
+  "players": [
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "Wake Forest",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Ziare",
+      "hgt": 74,
+      "hof": false,
+      "imgURL": "https://img.bleacherreport.net/img/images/photos/003/864/248/hi-res-8314501a818ab1752f06b2cd95eb7c53_crop_north.jpg?1587490404&w=3072&h=2048",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": " Wade",
+      "moodTraits": [
+        "$",
+        "L"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 33,
+          "spd": 80,
+          "jmp": 71,
+          "endu": 78,
+          "ins": 43,
+          "dnk": 65,
+          "ft": 63,
+          "fg": 70,
+          "tp": 62,
+          "oiq": 59,
+          "diq": 64,
+          "drb": 68,
+          "pss": 36,
+          "reb": 38,
+          "hgt": 62,
+          "fuzz": 2.684029073596842,
+          "ovr": 70,
+          "pos": "G",
+          "pot": 92,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Di",
+            "Dp"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 24,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 24,
+          "type": "godMode"
+        }
+      ],
+      "weight": 175,
+      "pos": "G",
+      "pid": 838,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.04166666666666663,
+            "facilities": 0.12500000000000022,
+            "teamPerformance": 1,
+            "hype": 0.19234997598059422,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "$",
+            "L"
+          ],
+          "probWilling": 0.3577583816100234,
+          "willing": false,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2002,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Shy ",
+      "hgt": 78,
+      "hof": false,
+      "imgURL": "https://s3media.247sports.com/Uploads/Assets/432/322/9322432.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Odom",
+      "moodTraits": [
+        "$"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 70,
+          "spd": 60,
+          "jmp": 80,
+          "endu": 70,
+          "ins": 65,
+          "dnk": 80,
+          "ft": 45,
+          "fg": 20,
+          "tp": 50,
+          "oiq": 55,
+          "diq": 75,
+          "drb": 37,
+          "pss": 36,
+          "reb": 70,
+          "hgt": 66,
+          "fuzz": -0.7647503465278316,
+          "ovr": 69,
+          "pos": "PF",
+          "pot": 91,
+          "season": 2018,
+          "skills": [
+            "A",
+            "Di",
+            "Dp",
+            "Po",
+            "R"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 2,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 2,
+          "type": "godMode"
+        }
+      ],
+      "weight": 210,
+      "jerseyNumber": "34",
+      "pid": 839,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.08333333333333326,
+            "facilities": 0.12500000000000022,
+            "teamPerformance": 1,
+            "hype": 0.19234997598059422,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "$"
+          ],
+          "probWilling": 0.38514920290260934,
+          "willing": false,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2002,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Scottie ",
+      "hgt": 81,
+      "hof": false,
+      "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4433134.png&w=350&h=254",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Barnes",
+      "moodTraits": [
+        "L",
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 75,
+          "spd": 56,
+          "jmp": 60,
+          "endu": 68,
+          "ins": 63,
+          "dnk": 78,
+          "ft": 58,
+          "fg": 53,
+          "tp": 49,
+          "oiq": 58,
+          "diq": 83,
+          "drb": 48,
+          "pss": 57,
+          "reb": 71,
+          "hgt": 69,
+          "fuzz": 0.7688313827118005,
+          "ovr": 73,
+          "pos": "F",
+          "pot": 94,
+          "season": 2018,
+          "skills": [
+            "A",
+            "Di",
+            "Dp",
+            "Po",
+            "R"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 10,
+          "type": "godMode"
+        }
+      ],
+      "weight": 227,
+      "jerseyNumber": "11",
+      "pos": "F",
+      "pid": 840,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.04166666666666663,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 5,
+            "hype": 0.19234997598059422,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "L",
+            "W"
+          ],
+          "probWilling": 0.8876605793493567,
+          "willing": true,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2002,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Greg",
+      "hgt": 81,
+      "hof": false,
+      "imgURL": "https://theundefeated.com/wp-content/uploads/2020/04/IMG_9305-e1587664061270.jpg?w=960",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Brown",
+      "moodTraits": [
+        "F"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 15,
+          "spd": 71,
+          "jmp": 83,
+          "endu": 65,
+          "ins": 65,
+          "dnk": 80,
+          "ft": 65,
+          "fg": 55,
+          "tp": 60,
+          "oiq": 61,
+          "diq": 80,
+          "drb": 45,
+          "pss": 40,
+          "reb": 65,
+          "hgt": 69,
+          "fuzz": -1.2822535266977448,
+          "ovr": 71,
+          "pos": "PF",
+          "pot": 91,
+          "season": 2018,
+          "skills": [
+            "3",
+            "Di",
+            "Dp",
+            "R",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 19,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 19,
+          "type": "godMode"
+        }
+      ],
+      "weight": 205,
+      "jerseyNumber": "4",
+      "pos": "PF",
+      "pid": 841,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.4166666666666663,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 2,
+            "hype": 0.48087493995148556,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "F"
+          ],
+          "probWilling": 0.6453440033124727,
+          "willing": true,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Day'ron",
+      "hgt": 83,
+      "hof": false,
+      "imgURL": "https://keepingitheel.com/wp-content/uploads/getty-images/2020/04/1216836467.jpeg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Sharpe",
+      "moodTraits": [
+        "F"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 74,
+          "spd": 48,
+          "jmp": 43,
+          "endu": 73,
+          "ins": 79,
+          "dnk": 73,
+          "ft": 63,
+          "fg": 48,
+          "tp": 58,
+          "oiq": 63,
+          "diq": 81,
+          "drb": 48,
+          "pss": 43,
+          "reb": 78,
+          "hgt": 70,
+          "fuzz": -0.010911754630043902,
+          "ovr": 72,
+          "pos": "C",
+          "pot": 88,
+          "season": 2018,
+          "skills": [
+            "Di",
+            "Po",
+            "R",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 10,
+          "type": "godMode"
+        }
+      ],
+      "weight": 265,
+      "jerseyNumber": "23",
+      "pos": "C",
+      "pid": 842,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.4166666666666663,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 2,
+            "hype": 0.48087493995148556,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "F"
+          ],
+          "probWilling": 0.6729049114382085,
+          "willing": true,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Isaiah",
+      "hgt": 81,
+      "hof": false,
+      "imgURL": "https://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/190/230211.jpg&w=190&h=254",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Todd",
+      "moodTraits": [
+        "L",
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 52,
+          "spd": 79,
+          "jmp": 67,
+          "endu": 77,
+          "ins": 85,
+          "dnk": 76,
+          "ft": 67,
+          "fg": 57,
+          "tp": 62,
+          "oiq": 90,
+          "diq": 47,
+          "drb": 23,
+          "pss": 29,
+          "reb": 19,
+          "hgt": 69,
+          "fuzz": -1.4332920580895463,
+          "ovr": 71,
+          "pos": "PF",
+          "pot": 87,
+          "season": 2018,
+          "skills": [
+            "3",
+            "A",
+            "Di",
+            "Dp",
+            "Po",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 3,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 3,
+          "type": "godMode"
+        }
+      ],
+      "weight": 215,
+      "pos": "PF",
+      "pid": 843,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.04166666666666663,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 5,
+            "hype": 0.19234997598059422,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "L",
+            "W"
+          ],
+          "probWilling": 0.919093138662558,
+          "willing": true,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Jeremy",
+      "hgt": 74,
+      "hof": false,
+      "imgURL": "https://s3media.247sports.com/Uploads/Assets/952/754/7754952.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Roach",
+      "moodTraits": [
+        "$",
+        "L"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 20,
+          "spd": 80,
+          "jmp": 45,
+          "endu": 80,
+          "ins": 40,
+          "dnk": 45,
+          "ft": 65,
+          "fg": 90,
+          "tp": 73,
+          "oiq": 87,
+          "diq": 54,
+          "drb": 85,
+          "pss": 65,
+          "reb": 10,
+          "hgt": 62,
+          "fuzz": -1.3218902345213985,
+          "ovr": 73,
+          "pos": "PG",
+          "pot": 94,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Dp",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 17,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 17,
+          "type": "godMode"
+        }
+      ],
+      "weight": 180,
+      "jerseyNumber": "1",
+      "pos": "PG",
+      "pid": 844,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.04166666666666663,
+            "facilities": 0.12500000000000022,
+            "teamPerformance": 1,
+            "hype": 0.19234997598059422,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "$",
+            "L"
+          ],
+          "probWilling": 0.33097718352085587,
+          "willing": false,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2003,
+        "loc": "USA"
+      },
+      "college": "Kansas",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "DJ",
+      "hgt": 75,
+      "hof": false,
+      "imgURL": "https://www.inquirer.com/resizer/oouvMk1wPQ_-CW1KIsXDOiLh1y8=/1400x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/YQZGSNEIQFHRNK563DBSGQMTFQ.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Wagner",
+      "moodTraits": [
+        "F"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 18,
+          "spd": 74,
+          "jmp": 53,
+          "endu": 74,
+          "ins": 58,
+          "dnk": 38,
+          "ft": 68,
+          "fg": 83,
+          "tp": 77,
+          "oiq": 79,
+          "diq": 23,
+          "drb": 78,
+          "pss": 88,
+          "reb": 48,
+          "hgt": 63,
+          "fuzz": -1.999734469997895,
+          "ovr": 67,
+          "pos": "PG",
+          "pot": 88,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 11,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 11,
+          "type": "godMode"
+        }
+      ],
+      "weight": 165,
+      "jerseyNumber": "21",
+      "pos": "PG",
+      "pid": 846,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.4166666666666663,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 2,
+            "hype": 0.48087493995148556,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "F"
+          ],
+          "probWilling": 0.6969381068138971,
+          "willing": true,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Nimari",
+      "hgt": 75,
+      "hof": false,
+      "imgURL": "https://s3media.247sports.com/Uploads/Assets/128/320/9320128.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Burnett ",
+      "moodTraits": [
+        "L",
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 62,
+          "spd": 45,
+          "jmp": 64,
+          "endu": 62,
+          "ins": 52,
+          "dnk": 55,
+          "ft": 62,
+          "fg": 77,
+          "tp": 73,
+          "oiq": 87,
+          "diq": 67,
+          "drb": 64,
+          "pss": 58,
+          "reb": 33,
+          "hgt": 63,
+          "fuzz": 0.07596180037925482,
+          "ovr": 73,
+          "pos": "PG",
+          "pot": 90,
+          "season": 2018,
+          "skills": [
+            "3",
+            "Di",
+            "Po",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 19,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 19,
+          "type": "godMode"
+        }
+      ],
+      "weight": 190,
+      "jerseyNumber": "25",
+      "pos": "PG",
+      "pid": 847,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.04166666666666663,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 5,
+            "hype": 0.19234997598059422,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "L",
+            "W"
+          ],
+          "probWilling": 0.903846935817916,
+          "willing": false,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Caleb",
+      "hgt": 75,
+      "hof": false,
+      "imgURL": "https://img.bleacherreport.net/img/images/photos/003/824/409/6c8926fbe420211a5f1ceaf3c56165d2_crop_exact.jpg?w=1200&h=1200&q=75",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Love",
+      "moodTraits": [
+        "F",
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 17,
+          "spd": 90,
+          "jmp": 85,
+          "endu": 70,
+          "ins": 55,
+          "dnk": 70,
+          "ft": 65,
+          "fg": 63,
+          "tp": 67,
+          "oiq": 78,
+          "diq": 45,
+          "drb": 70,
+          "pss": 63,
+          "reb": 26,
+          "hgt": 63,
+          "fuzz": -1.3649132653187754,
+          "ovr": 72,
+          "pos": "PG",
+          "pot": 93,
+          "season": 2018,
+          "skills": [
+            "3",
+            "A",
+            "B",
+            "Dp",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 22,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 22,
+          "type": "godMode"
+        }
+      ],
+      "weight": 180,
+      "jerseyNumber": "2",
+      "pos": "PG",
+      "pid": 848,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": -1.458333333333333,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 0.2857142857142847,
+            "hype": -1.8729072544224235,
+            "loyalty": 2,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "F",
+            "W"
+          ],
+          "probWilling": 0.09374285176592094,
+          "willing": false,
+          "contractAmount": 0
+        },
+        "current": {
+          "components": {
+            "marketSize": -1.458333333333333,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 0.2857142857142847,
+            "hype": -1.8729072544224235,
+            "loyalty": 2,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "F",
+            "W"
+          ],
+          "probWilling": 0.09374285176592094,
+          "willing": false,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Devin",
+      "hgt": 75,
+      "hof": false,
+      "imgURL": "https://img.bleacherreport.net/img/images/photos/003/833/480/80bd73ce92089f7f7eaa1efae7ccfbe7_crop_north.jpg?1571262951&w=3072&h=2048",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Askew",
+      "moodTraits": [
+        "F",
+        "L"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 63,
+          "spd": 66,
+          "jmp": 68,
+          "endu": 63,
+          "ins": 53,
+          "dnk": 68,
+          "ft": 63,
+          "fg": 65,
+          "tp": 83,
+          "oiq": 54,
+          "diq": 58,
+          "drb": 63,
+          "pss": 83,
+          "reb": 33,
+          "hgt": 63,
+          "fuzz": -0.9367894515445352,
+          "ovr": 72,
+          "pos": "PG",
+          "pot": 94,
+          "season": 2018,
+          "skills": [
+            "3",
+            "A",
+            "Di",
+            "Dp",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 2,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 2,
+          "type": "godMode"
+        }
+      ],
+      "weight": 210,
+      "jerseyNumber": "5",
+      "pos": "PG",
+      "pid": 849,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": 0.20833333333333315,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 2,
+            "hype": 0.48087493995148556,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "F",
+            "L"
+          ],
+          "probWilling": 0.5752791755815724,
+          "willing": true,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2004,
+        "loc": "Minneapolis, MN"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 94,
+        "ovr": 60,
+        "skills": [
+          "3",
+          "B",
+          "Ps"
+        ]
+      },
+      "face": {
+        "fatness": 0.27,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body3",
+          "color": "#ddb7a0"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.1
+        },
+        "head": {
+          "id": "head8",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.3
+        },
+        "miscLine": {
+          "id": "forehead5"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": -8
+        },
+        "eyebrow": {
+          "id": "eyebrow3",
+          "angle": -10
+        },
+        "hair": {
+          "id": "emo",
+          "color": "#B55239",
+          "flip": true
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 1.04
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Jevon",
+      "hgt": 70,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Moss",
+      "moodTraits": [
+        "$",
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 55,
+          "spd": 75,
+          "jmp": 55,
+          "endu": 35,
+          "ins": 55,
+          "dnk": 55,
+          "ft": 55,
+          "fg": 50,
+          "tp": 60,
+          "oiq": 55,
+          "diq": 30,
+          "drb": 70,
+          "pss": 65,
+          "reb": 25,
+          "hgt": 59,
+          "fuzz": -3.1551484296509047,
+          "ovr": 60,
+          "pos": "PG",
+          "pot": 94,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Ps"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 10,
+          "type": "godMode"
+        }
+      ],
+      "weight": 189,
+      "pos": "PG",
+      "pid": 850,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2004,
+        "loc": "Honolulu, HI"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 90,
+        "ovr": 66,
+        "skills": [
+          "3",
+          "Di",
+          "R"
+        ]
+      },
+      "face": {
+        "fatness": 0.53,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body5",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.04
+        },
+        "head": {
+          "id": "head13",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.65
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 6
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": 13
+        },
+        "hair": {
+          "id": "curly3",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 0.63
+        },
+        "glasses": {
+          "id": "glasses2-black"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Khalil",
+      "hgt": 78,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Rose",
+      "moodTraits": [
+        "$"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 55,
+          "spd": 55,
+          "jmp": 55,
+          "endu": 25,
+          "ins": 55,
+          "dnk": 30,
+          "ft": 35,
+          "fg": 50,
+          "tp": 75,
+          "oiq": 70,
+          "diq": 65,
+          "drb": 55,
+          "pss": 55,
+          "reb": 60,
+          "hgt": 66,
+          "fuzz": -1.8669885279267548,
+          "ovr": 66,
+          "pos": "GF",
+          "pot": 90,
+          "season": 2018,
+          "skills": [
+            "3",
+            "Di",
+            "R"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 17,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 17,
+          "type": "godMode"
+        }
+      ],
+      "weight": 220,
+      "pos": "GF",
+      "pid": 851,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2004,
+        "loc": "Bronx, NY"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 89,
+        "ovr": 63,
+        "skills": [
+          "3",
+          "V"
+        ]
+      },
+      "face": {
+        "fatness": 0.88,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body2",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.24
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.81
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow20",
+          "angle": -4
+        },
+        "hair": {
+          "id": "bald",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "closed",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose11",
+          "flip": true,
+          "size": 0.54
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Zachariah",
+      "hgt": 76,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Cook",
+      "moodTraits": [
+        "F"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 25,
+          "spd": 55,
+          "jmp": 35,
+          "endu": 55,
+          "ins": 55,
+          "dnk": 50,
+          "ft": 55,
+          "fg": 70,
+          "tp": 75,
+          "oiq": 65,
+          "diq": 60,
+          "drb": 55,
+          "pss": 55,
+          "reb": 30,
+          "hgt": 64,
+          "fuzz": -1.544227951390143,
+          "ovr": 63,
+          "pos": "SG",
+          "pot": 89,
+          "season": 2018,
+          "skills": [
+            "3",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 3,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 3,
+          "type": "godMode"
+        }
+      ],
+      "weight": 198,
+      "pos": "SG",
+      "pid": 852,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2000,
+        "loc": "Mendota, CA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 84,
+        "ovr": 73,
+        "skills": [
+          "3",
+          "B",
+          "Dp",
+          "Ps",
+          "V"
+        ]
+      },
+      "face": {
+        "fatness": 0.7,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body3",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.48
+        },
+        "head": {
+          "id": "head11",
+          "shave": "rgba(0,0,0,0.18)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 2.16
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye10",
+          "angle": -1
+        },
+        "eyebrow": {
+          "id": "eyebrow11",
+          "angle": 1
+        },
+        "hair": {
+          "id": "curly2",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth3",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose5",
+          "flip": false,
+          "size": 1.08
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Beef Testosterone",
+      "hgt": 63,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": " Beetlejuice Jr.",
+      "moodTraits": [
+        "$",
+        "F"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 40,
+          "spd": 85,
+          "jmp": 45,
+          "endu": 55,
+          "ins": 55,
+          "dnk": 50,
+          "ft": 55,
+          "fg": 70,
+          "tp": 75,
+          "oiq": 90,
+          "diq": 55,
+          "drb": 65,
+          "pss": 80,
+          "reb": 55,
+          "hgt": 53,
+          "fuzz": -1.468559620261102,
+          "ovr": 73,
+          "pos": "PG",
+          "pot": 84,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Dp",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 16,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 16,
+          "type": "godMode"
+        }
+      ],
+      "weight": 125,
+      "jerseyNumber": "2",
+      "pos": "PG",
+      "pid": 853,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2000,
+        "loc": "London, England"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 89,
+        "ovr": 77,
+        "skills": [
+          "3",
+          "B",
+          "Di",
+          "Dp",
+          "Po",
+          "Ps",
+          "V"
+        ]
+      },
+      "face": {
+        "fatness": 0.89,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body5",
+          "color": "#ad6453"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.57
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0.08)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 2.21
+        },
+        "miscLine": {
+          "id": "freckles2"
+        },
+        "facialHair": {
+          "id": "goatee2"
+        },
+        "eye": {
+          "id": "eye13",
+          "angle": 4
+        },
+        "eyebrow": {
+          "id": "eyebrow16",
+          "angle": 0
+        },
+        "hair": {
+          "id": "high",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": false,
+          "size": 1.11
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Zeke",
+      "hgt": 73,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Buckets",
+      "moodTraits": [
+        "$",
+        "F"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 55,
+          "spd": 80,
+          "jmp": 50,
+          "endu": 75,
+          "ins": 55,
+          "dnk": 40,
+          "ft": 55,
+          "fg": 55,
+          "tp": 90,
+          "oiq": 79,
+          "diq": 65,
+          "drb": 85,
+          "pss": 55,
+          "reb": 45,
+          "hgt": 61,
+          "fuzz": -3.4142153113551164,
+          "ovr": 77,
+          "pos": "PG",
+          "pot": 89,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Di",
+            "Dp",
+            "Po",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 24,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 24,
+          "type": "godMode"
+        }
+      ],
+      "weight": 201,
+      "pos": "PG",
+      "pid": 854,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2003,
+        "loc": "Fayetteville, NC"
+      },
+      "college": "Arizona",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 86,
+        "ovr": 61,
+        "skills": [
+          "3"
+        ]
+      },
+      "face": {
+        "fatness": 0.52,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body3",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.95
+        },
+        "head": {
+          "id": "head17",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.52
+        },
+        "miscLine": {
+          "id": "freckles2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye10",
+          "angle": 15
+        },
+        "eyebrow": {
+          "id": "eyebrow2",
+          "angle": -12
+        },
+        "hair": {
+          "id": "high",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 1.21
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Jeremy",
+      "hgt": 77,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Walker",
+      "moodTraits": [
+        "L"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 25,
+          "spd": 55,
+          "jmp": 30,
+          "endu": 55,
+          "ins": 35,
+          "dnk": 50,
+          "ft": 30,
+          "fg": 70,
+          "tp": 75,
+          "oiq": 65,
+          "diq": 55,
+          "drb": 55,
+          "pss": 55,
+          "reb": 60,
+          "hgt": 65,
+          "fuzz": -1.2235402535301523,
+          "ovr": 61,
+          "pos": "GF",
+          "pot": 86,
+          "season": 2018,
+          "skills": [
+            "3"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 7,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 7,
+          "type": "godMode"
+        }
+      ],
+      "weight": 205,
+      "pos": "GF",
+      "pid": 855,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2000,
+        "loc": "Washington, DC"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 89,
+        "ovr": 73,
+        "skills": [
+          "3",
+          "Di",
+          "Po",
+          "Ps",
+          "V"
+        ]
+      },
+      "face": {
+        "fatness": 0.3,
+        "teamColors": [
+          "#ff7105",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body2",
+          "color": "#5b4933"
+        },
+        "jersey": {
+          "id": "jersey"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.81
+        },
+        "head": {
+          "id": "head9",
+          "shave": "rgba(0,0,0,0.0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.28
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "honest-abe-stache"
+        },
+        "eye": {
+          "id": "eye17",
+          "angle": 10
+        },
+        "eyebrow": {
+          "id": "eyebrow7",
+          "angle": 17
+        },
+        "hair": {
+          "id": "afro2",
+          "color": "#000000",
+          "flip": true
+        },
+        "mouth": {
+          "id": "mouth3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": true,
+          "size": 0.97
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Demi",
+      "hgt": 81,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "God",
+      "moodTraits": [
+        "$",
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 45,
+          "spd": 55,
+          "jmp": 55,
+          "endu": 55,
+          "ins": 65,
+          "dnk": 80,
+          "ft": 55,
+          "fg": 85,
+          "tp": 90,
+          "oiq": 75,
+          "diq": 60,
+          "drb": 55,
+          "pss": 70,
+          "reb": 50,
+          "hgt": 69,
+          "fuzz": -4.27958177542991,
+          "ovr": 73,
+          "pos": "GF",
+          "pot": 89,
+          "season": 2018,
+          "skills": [
+            "3",
+            "Di",
+            "Po",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 11,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 11,
+          "type": "godMode"
+        }
+      ],
+      "weight": 185,
+      "pos": "GF",
+      "pid": 856,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2000,
+        "loc": "St. Louis, MO"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 89,
+        "ovr": 74,
+        "skills": [
+          "3",
+          "Di",
+          "Po",
+          "R",
+          "V"
+        ]
+      },
+      "firstName": "Jayson",
+      "hgt": 83,
+      "hof": false,
+      "imgURL": "https://3.bp.blogspot.com/-Do4c_x_25h0/WiH-MIe6lvI/AAAAAAAAGC8/FA-aLDDX-kcx7GL7MBpr9ImTDMSqid8qQCLcBGAs/s1600/tatum%2BHS%2Bbball%2Bspotlight%2Bnews.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Tatum Jr.",
+      "moodTraits": [
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 45,
+          "spd": 55,
+          "jmp": 55,
+          "endu": 40,
+          "ins": 65,
+          "dnk": 75,
+          "ft": 55,
+          "fg": 80,
+          "tp": 90,
+          "oiq": 85,
+          "diq": 70,
+          "drb": 55,
+          "pss": 55,
+          "reb": 50,
+          "hgt": 70,
+          "fuzz": 0.40871809335032694,
+          "ovr": 74,
+          "pos": "SF",
+          "pot": 89,
+          "season": 2018,
+          "skills": [
+            "3",
+            "Di",
+            "Po",
+            "R",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 22,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 22,
+          "type": "godMode"
+        }
+      ],
+      "weight": 210,
+      "pos": "SF",
+      "pid": 857,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": -0.5833333333333333,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 0.2857142857142847,
+            "hype": -0.7491629017689694,
+            "loyalty": 2,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "W"
+          ],
+          "probWilling": 0.3422242000518661,
+          "willing": false,
+          "contractAmount": 0
+        },
+        "current": {
+          "components": {
+            "marketSize": -0.5833333333333333,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 0.2857142857142847,
+            "hype": -0.7491629017689694,
+            "loyalty": 2,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "W"
+          ],
+          "probWilling": 0.3422242000518661,
+          "willing": false,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2000,
+        "loc": "PG County, MD"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2020,
+        "pot": 86,
+        "ovr": 75,
+        "skills": [
+          "3",
+          "Di",
+          "Dp",
+          "Po",
+          "R",
+          "V"
+        ]
+      },
+      "face": {
+        "fatness": 0.3,
+        "teamColors": [
+          "#ff7105",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body2",
+          "color": "#f2d6b5"
+        },
+        "jersey": {
+          "id": "jersey5"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.81
+        },
+        "head": {
+          "id": "head9",
+          "shave": "rgba(0,0,0,0.0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.28
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee7"
+        },
+        "eye": {
+          "id": "eye16",
+          "angle": 10
+        },
+        "eyebrow": {
+          "id": "eyebrow13",
+          "angle": 17
+        },
+        "hair": {
+          "id": "blowoutFade",
+          "color": "#b05030",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": true,
+          "size": 0.97
+        },
+        "glasses": {
+          "id": "facemask"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Cameron",
+      "hgt": 87,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Johnston ",
+      "moodTraits": [
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 55,
+          "spd": 50,
+          "jmp": 45,
+          "endu": 40,
+          "ins": 80,
+          "dnk": 75,
+          "ft": 55,
+          "fg": 65,
+          "tp": 85,
+          "oiq": 70,
+          "diq": 90,
+          "drb": 55,
+          "pss": 55,
+          "reb": 55,
+          "hgt": 73,
+          "fuzz": -1.6003713169992464,
+          "ovr": 75,
+          "pos": "F",
+          "pot": 86,
+          "season": 2018,
+          "skills": [
+            "3",
+            "Di",
+            "Dp",
+            "Po",
+            "R",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 15,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 15,
+          "type": "godMode"
+        }
+      ],
+      "weight": 260,
+      "pos": "F",
+      "pid": 858,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2003,
+        "loc": "Chicago, IL"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2023
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.59,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body3",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.19
+        },
+        "head": {
+          "id": "head9",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 0.91
+        },
+        "miscLine": {
+          "id": "freckles1"
+        },
+        "facialHair": {
+          "id": "goatee6"
+        },
+        "eye": {
+          "id": "eye14",
+          "angle": 10
+        },
+        "eyebrow": {
+          "id": "eyebrow10",
+          "angle": 7
+        },
+        "hair": {
+          "id": "spike2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "honker",
+          "flip": true,
+          "size": 1.06
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Curt'Kai",
+      "hgt": 83,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Wilson",
+      "moodTraits": [
+        "F"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 35,
+          "spd": 55,
+          "jmp": 55,
+          "endu": 30,
+          "ins": 55,
+          "dnk": 55,
+          "ft": 55,
+          "fg": 65,
+          "tp": 70,
+          "oiq": 75,
+          "diq": 60,
+          "drb": 20,
+          "pss": 55,
+          "reb": 50,
+          "hgt": 50,
+          "fuzz": 1.6694637705109505,
+          "ovr": 59,
+          "pos": "SF",
+          "pot": 86,
+          "season": 2018,
+          "skills": [
+            "3"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [],
+      "stats": [],
+      "tid": -1,
+      "transactions": [],
+      "weight": 245,
+      "pos": "SF",
+      "pid": 861,
+      "mood": {
+        "user": {
+          "components": {
+            "marketSize": -2.916666666666666,
+            "facilities": 0.08333333333333348,
+            "teamPerformance": 0.11428571428571388,
+            "hype": -1.8729072544224235,
+            "loyalty": 0,
+            "trades": 0,
+            "playingTime": 0,
+            "rookieContract": 0,
+            "difficulty": 0
+          },
+          "traits": [
+            "F"
+          ],
+          "probWilling": 0.01800585514464524,
+          "willing": false,
+          "contractAmount": 0
+        }
+      },
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Brandon",
+      "hgt": 79,
+      "hof": false,
+      "imgURL": "https://s3media.247sports.com/Uploads/Assets/974/321/9321974.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Boston Jr.",
+      "moodTraits": [
+        "F",
+        "L"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 16,
+          "spd": 76,
+          "jmp": 69,
+          "endu": 81,
+          "ins": 51,
+          "dnk": 71,
+          "ft": 71,
+          "fg": 78,
+          "tp": 76,
+          "oiq": 80,
+          "diq": 63,
+          "drb": 76,
+          "pss": 62,
+          "reb": 51,
+          "hgt": 67,
+          "fuzz": 3.976429540362181,
+          "ovr": 76,
+          "pos": "GF",
+          "pot": 94,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Di",
+            "Dp",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 2,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 2,
+          "type": "godMode"
+        }
+      ],
+      "weight": 180,
+      "pid": 869,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Ziare",
+      "hgt": 80,
+      "hof": false,
+      "imgURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRgVFRUYGRgaGBgaGBgYGBkYGBgYGhoZGhgYGBkcIS4lHB4rIRgaJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHzQsJCs0NDQ0NjY0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDE0MTQ0NDQ0NDQ0NDQ0Mf/AABEIAQMAwgMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBQYEBwj/xABCEAABAwIEAwUFBQcCBQUAAAABAAIRAyEEEjFBBVFhBiJxgZEyobHB8AcTQlLRFHKCorLh8WKSFTRzo8IWJTNDY//EABkBAQEBAQEBAAAAAAAAAAAAAAABAgQDBf/EACYRAQEAAgEDBAICAwAAAAAAAAABAhEDEiExBBNBUSIygaEUYZH/2gAMAwEAAhEDEQA/AKAolKhAIQhAJCkeTFrdeSy+JxlRpLXOOvPXaylWL6tjSJIZYTc2VHjcaX9B4rlfXcdXH1Kgc7YeqKcx50IUZrhugQ0nlfxAPooWsP0QiH/ek3+gE+k46nTVRuYJEa8xp5KTpE7nqeqBzHky4mOX9kV7kZRa1xz3Ubze/wBfRT2uPIAfX6JoSMJB0uOfpKndiXEgyABaDoOZjnqZTKYDm5XciQRNovt7QXEwSZNgi+F1UxT2ZBmaQYdM662I+R5jzuMFjcxDX5OdpBAJvaIjkNpWUFaYPK22nJWXDX5nQZJAnWNL/JYs1G8bu6rQV7EBkOm83iJvfnsmlMzuZRlmSTNoscvhvB35pMLWz91zSx8Tkucw/M077K45bZyx14OKaU4psrbAKaUspCgEJEIO+EQhKECQgJybVZLSDNwRax02QVHGMX3IaYvGbSegG/is88nrPVWPE8O/23NDBsJBPT3fBV2bzUaNdO59D802D19UOdfX3oeSTr4/oiEadZTmHvAG5OvIDkknePDokBgE7n+4+aBABHvTi/koggoAGSpm2l3SAOqhaPr68FKR3YHNUOpvLRZxFoN4NxceiSlhw45d9j5KEC9wpnmCDtb0iFA0UDz0t5qwwFZrHAluYg6eIA1lcrKJe62+hOnmpm5bNLhJkzcRqPI+alWLmWPc0Ne5kg3EFkxbM3kJ8uRS0cQ9jhn7zfwQTGazS3MDaQ6YvtAss4x7RP8AKQYuN1a4QmoWACSXC5EtkXBInos6031bXWCrPeO93iTAcBdpH4Xjebd4c9EjlK5rWueGE/hJEn8Qgx0zAqIrUYy8mlNJTimrTJUJEILCEoQgIFUVes5vssLj0gD1KlQSgzXF6FQy95jTK0GYVKToFecYrkiHgyZIE2aJOW3ONVRO8dFFKWNbd1+myidUJSvJOqfQplxAGpMBPAY0HZKQf0Wlodni4ATHX5QrLB9jmG73+i8L6nCOiel5L8MSGpch3XqmG7JYcRLZ5nmu2t2Zw05ywT4rH+Vj9N/4eX28eylNNtNV6bj+zeHdPdI8FQ4/s0xoLmudYExroFrH1WN8pl6XOeGUqMmw2uuZzlaOwtzB7w169Vy4ijuNd17zKVz5Y2IadVzdDz8imOdNyZJ5pSLdPr9E2FpgrSVouzNUNqBxYXXvFss2nnz6rPsuYAWq4VhMjJc7MTByjSAY9xELOX01j9rQUx7cx3XNLSe9e4AiQe8wX6lc5SudP1pckx5knzTZVk0luyFNKUlNlVCoSSlQWCckhCBUIQgoO0lFgh/4jaNiANfJZl2pHr8fktVxw5nBmUmBIJsJO8+WipTwqoXf/GRNxHsx4oOEDwVhw1vfaeoXA+mWuLXCCNlc8HpyZ2H0FjkusK3xzeca/DGwV3hZGyrOEUC4z8lqcNgzZfIs76fbl7DDMLp7p8V0upSNF34bDQLJ7qWtl6THUedy7svi2xsqPibwGOJsMpv5LZYvCAzZZDi1LO51JsZWx946CYNiGD/VFzykc1mY/k1cvxZDE4YQ2ZBDQJHQRdVr2EH6utHjsK4SYKpcTTnRdfDnXFzcciux9AABzdJPrrB6/W64AtI3APfTILCMxEOIIaSLAzGt481Ws4cXOyiwAku1ExIaY0/uuvGuLKd0nA8OHPM8id+R5aCyv8M0BgIcSCJuQYixA5XCMPRaxoa0QB9SfRSaCB9Tc+9XXfZvto0pspSkVZCaUFJKBZQkQgtUQgpUCISpFAypTa6MwBgyJ2PNOKEio48dw9lUd4QdnAXCrMDFNr82xi2pImwHVX7Wk6AnwXDh6QD3OIkB09LjX3rx5spp78GNuTs4b2krUwD+zOLdoa4R4khXeF7cMnvMc3wvfw1CqmceIY9zaL3tY2XuA7rRbU6biy5cPin4l7msoMcWMbUcabw6GuDd26uGYAtFwZGy5enc30/26+qTLXV/T0fh3HmPEhd7+ItC8/4fRqMIkEArQY2jFJrswm9l49V8Onol7pOLdoqdMHMsXjO1LSSKdHVxJAsXE6uMC5RiKL6jjMkCbD6sp6QdRax/7P3Kj8jHlzGhzsrn2c8tEQ03mNplenHOr428eS9PzqKjEcXxLwIoEDqNeesL0bsTTw2NwzmPptbWp2eC0NcAdDO46rBVO0bXtzNpuDAYzFpgHlMQDHVWXZDjJo4plWO6/uP/AHXRc+Bgr2wy6cu808M8erH8btfcR4QG1Qxwzd8i5MQNJA6fDrfGVfaPiek31Xrvax9GkWVKjg0OcQ0kwM/3by2/iByXkf3DsgfLTcNcA4FzXEEiW6wYMGIsV1bkunJq2bMKaSiU0laYBKanJsoEKRBKEBKEIQWyVNlKgEJUigQpEpTSqLfguDL2ueNQ9rGeJknxEKOvQb96/u5bgEdYGY+quOyDmhpLiLOcb8yGgH0lQsptfiKgN4e/0BhfN5r+dr6vBNccivo4V4DmMgtqAtc24DmnUOEQQrHg/A/upLGinIAcW5m5gNAb3WlwuFY0aBLjcU1jTlEx+sD4rGOWWvL1uONvhR1sOA4Nmw1j1XRxKmPuwJ2UJY9zszovyXXjcO5rATuF5d7t69ppm8Hhxdhgg6g6ETYLt4vh3VqX3NQFzLENcSYIsC38pAO0Lme1zAX8j7t1qsEWvpteNHNBvyIXphllPDGeON7VgGcMLWfctGWnmLoN5J3J3Nt0HDtbYfotnjqQBNgsrxCA5Jllle7NxxxnZc/aTiM9HAvm5zwDpmc2nDj1He9Ss9g+HANqscO+6nna7clsOj1AHmu7tVimPdgabndxrHkyRcuLWgn/AGH1Kn+8YAxzDJbmiRIcAJcPAAT5Lo5Mr7k/h4ceM9q/yyU/AD0SFIEhXc+YUpqCUiBSkSEpJQOlCbKEFwlSJUBKRBSFAhSoTSgsOE4vI7Lz0O19Qelh6KTEY37nEv0AeA4RoJFx6yqlyieyT8D1GnzXLzcO95Ozg57JMa1o48Iu7wUtGoagJJjW3NZvCUoaXhuaPdzT2cbayxhh1ykOzfzLjuN+HfjlPlZ/suIz5m1yQPZYWiPM6youL18dEQy/4g4uAG1oUWF4kJzOqOvcd20eui7sdxFpaD96Li2WZ85K3jOxl/pUswuJewMfVblOsNggchFlrKWPYxjWtgBrQ0X0AssgziJbPfaR1sfcoP8AjDQ6DBm1nc+imsqbxjR43iwO6zOPx+Z0Sm41kOgbiVXVWRebytYYzby5Mrp38fdNWh/pw7ImYzZ3k353HqpDii1mxLm2gzAdY+EibdU7iptTYdmB3mf8KuJXZOKW9VcOXNZOmApJQgleznIUiESgRISglNQOQkQgupRKRCAKEoCQoEKSE5CBhUb2yIUpTCp5JdOzgmOAfkfo619irXF4VgqMLmgiZY4iYPL0lZSswh2YbRP6rUYCsKtMNfeB5jquDOdOXZ9Xhy6se7bYDFsc0B9NkQBZoIyi/wAfipcRTwrg537PTLiQZLBsBb2eiyeHq4ij7BZUbyccrvXQ+5OPHMSZAoAHmXgCVrHKaXLix38/9dXHBhy1wOHpyXNdOUWIAkaXHd6amyyHDOG05cWNAboXm5dGoB5LuxNCtVdNV4a38rJJPQuXNxGvkbkbYARbQLNy32jVxxx+FdxDENznLoLLipuD3tbtcnwFyVw161zzOilwdTJLfxus4/lH5PE7+Q5r0wx13rlzz32i34q/M+f9DPe0H5rhJXbxdmWpER3KZ/7bFwErrnhxZeTpTSiUkqoCUiSUkoFKREpsoFlCEILtKkQgWUFIhAJCklCBCmlOKa5BNgaeZxHT9VLw3E/dPNN1vy9QncHbLz5J/aXhxc0PZZzbg8xuCvncuvcsr6fFL7cynw1eAII20nyU9Wn3dvMheX4btC+mQHyI9F01O1YIFz4JOPKdtN+9jflqcbimtBJixWM4zxIGQN1XcQ4255MLhYwuMlemPF098nlyc3V2xSU8zjbXborzDcPytmEnBuHEnMRZaOvQhkLHJybuo1xcWpuq/tFd9N35qNM+mZn/AIqpKu+Nsmhh3xoH03dMpDmj+ZyoiV3YXeMr5+c1lYVJKQlItMCUSkQgEISIFQkQgvUJCgIBJCcmygIRCVIUDSUxyc4qur8SaDDRPXby5qyWm2g4IO8StG+mHMI9youA0zEnXf8AstHTYvk813na+vwzWElYPiHDJe4RvouUdlyRK1XEGZak6/NW3C8UwjKW36/V1cc8p4pePG+Y8+d2cy3KG4EAgALX8VxAc4hrAquhhi54lW55Xye3jPEd3DMIA0KXEsXeyllCjfSn9V57enwpn08+GrsiSwsrN6Bstf8AyuJ/hWYlbXCPbTrMzCWOOR4P4mP7rgfWFy8V7KNAcaDw4sc5rmugZgBnaQdM2QtkaSDEL6PprcsdfT5nqsenLf2ykpE57C0wQQeRTV7OcJJQUiAlEpCUkoFQklCC+lKmJwKBUkohQ4jEsYJe4D4nwG6CcrnxGJawd432A1Pkqmvxd7zlpjKPzG58tguRxMwCS4+043P+VvHHflm1NisU6oYNm8hp/crlAj65ELpYyLKOs3Xxlb1pNvQODiRPO/qtBQIMLM9l6ofRaZu3ukco090LQsfBuvicmPTnZX2+PLqwliHimGBggXVfVoHUEghXWKGZq5GVjoR7pWW1W2gAL3K6sBRJcbAQN1NWxGwHoFPg6RAk7oJTTA6+KirG3uRVqJ4FroKPiIjvciD5g2We/wDULm54klznmZOpBaPQK57VYwU2Fv43WHhuViKbPf8ARX0fR4WS1831mctkW/DKrH0xTqkh0O+6eBmLctywgXLYMxrJEawYsTh3MIzAQ4S1wOZj27OY4WcFxOkMkaseHA8iQfm1qscDjIJZlD6dQl7aZOjjOdrHfgeDMbG06gjryx25JdORErorUGluek7Oz0ezo9u310J5SV52aaBKEiFAqEiEF9CZVqNYJcQBzKix2JyMJFzsFnahe85nun5eHJaxxtS1Y4njBNqY/iPyH6qsIc85nEnqd/7JzGZrD2fipw3QBekx0lprWwIHmeSkpsAH16oDVKAtskIUb26dfr9VLCHCR8ECYTG1KDg+m6CLOabtc3k4eO+0rbcI7SUa4DXHJU/I42J/0O0d4WKxESuGtTgxt8Vyc/Bjn3dHDz5Ydp4e24ZocI3CjGHjbVeVcM7SYrDxkqEtH4HjO3wvcDwIWjw32hH/AOzDg9WPI/lcPmuHL02U8d3bj6rC+ezXMwInRT16UNWWd9oVDahVnqWR6yuDHfaC5wy0qLW9XuL/AOVoHxUnBn9N31GH21LWSZJgC/QDqVSca7X02SzDgVH6Zge4OpcPa8vVYnHcWr1+695IJ9gd1n+0a+cptKjlHXf9F08XpJ5yc3L6q3tilxNZ9R+d7i53PbyGw6KNvP0TiNvX9EFd8kk1HFbb3ptV0NPWP6gfhKhfLdDocw6Hp9bLoqtlh8FF7TAeStQ5+KLXiow5S8S4bZvxAjkSJ81aUsK2u0vpQHj26cx5t6e7w3oKzeSlwWKexwex2VzdD8QeY6LNkvajqe0gkEEEWIIgg8iDomytBTxNHFth4yVAIzAXafD8bOhuJsYVPj8E+i7K8a3a4Xa9v5mnce8bwvPLGxqXbnlCELKp67i6Z3XCGl3gu4uUbGLo08zIgQEBsDqn9U3f3nwVDwE6EgTggSEqUBIUDHjceaY5ocIKnITSwHSx9yK4KmGI0v8AFRZVYuncJA4fULzuEXavDVIzCk628f0XaHDolBOwSYQ2ZTpBgt6pZlPa3mkheiEISFPhNQOp6ELnw4IkbSQummomWe4c4PyQQZdQoHMgrsrtvKa9kjwU0IKbzMizhurrA8baW/dYhmdhI8Wn8zD+F3x3VKWpHBQaj/gtA3GMgHQGm2QNp76FloPVCnTPo3XfIiQlY6VBSdDiNjcKVrY03W0K73BI34/DZPe20eqt+yPCRi8XTouMMcSXwYORgLnAdTEdJlQVRpkAEggOEtJESJIkcxII8igL1btF2AFSu6u/Eso4cNYAMsZGMY1gYCSGgd2Z66LOYnE8Iw1qNF+LePxVHFlKfAAZv9pHVSZb8Lpk8LhH1XZabHvd+VjS4jqQNB1SYnDuYcrss7hr2PjoSwkA9JlWPEu0Veu3JLadLajRaKdPza27v4iVUKzYHICCgKoClQSiUAkQSgIoKRKUIgKYU4ppRStUVWz2nxHr/hSBR4kd2eV/RA6qLJjlLqPEKKf7oGOao3BTOSDX6+v8rKE/Zup9yFJmQrqCLkeR+Knabhc5Py+KlYbhIqSoVPhazqbmvY5zXNMtc0lrmnmCFzC7lMqjrx/FK9cg1qr6kaZnlwHgDYeS45SppQLKUJqAUDiUApiWUDpQU2UhRT5RKaEoQKkBSEpJRDkiCUiKEOEiEJJQR0D3R0t8klPU+KG6uHn6/wB0gdDj1APyPyQOqDfyUbHSnYl8N+tTZMYIClEkoRlQqjnLl00xqfJcbyuwHujqpFSUeakJUbNE8KoUpAESuzguHz4igyJz1qTT4Go0H3SpR1V+yuOZ7WErfwsc/wB7ZVTlIMQZmIi86RHNfTWJrBjHPOjWucfBoJPwXzlwRhqYnDtNy+vSzdcz2z81nHK1bNOSrh3s9tj2/vMc2PUKMr6bxNUMY550a1zjPJoJ+S8U+zns0zGVXurEllIMLmC2dz80Bx2b3SSBrZJnubWxjQ4c04L6VPDqOUN+6p5QIDcjYA5ARYLkqdm8E72sJhz40WT65Vn3DT51QF6L9pHY+nQYMVh2tYyWtqUxZoLjDXtG17EeB5rz7DUXPe1jBLnuaxo5ucQ1vvIW5lubSxG4oC9vp/ZxgA1rXU3OcAAX/eVAXHdxAdlHgAs1247D4bDYV+IoZw5j2SHPzNyucGGxE6uG6kzlXpealCa5KStoISJUhQRu1B8R8/1TT7Q8SPX/AAlfoehBTX/oshlQ5ngbDvH4D5p5N1DSfOZ3MwPAWT26gIOiAhNzoV3EcTdCu3ZvgPghCkWpWKR2iELSI2rQ9hhPEML+/wDBrihCzl4WPa+1ZjB4kjbD1f6HLw/sPfH4X/qD3AlKhYx/WrXuPaX/AJTEn/8ACr/Q5Yf7Gh3MT+/S/pckQsz9avy7ftW4lWoUsOaNR9Mmq4EscWyMuhhVn2WcdxOIr1G1qz6gFIuAcZg5mifehCT9U+Wg+1T/AJB3/Up/1LzHsCwHiGGBE98nza17mnyIB8kIWsf1pfL312g8vkqDt6P/AG/EfuD3OahCxPLVeAOSoQuhgiaUIQMO/gVHU0P7p+CEKUc2H9kefxU1H2glQswrme8yb7lCELI//9k=",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Williams",
+      "moodTraits": [
+        "F",
+        "L"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 26,
+          "spd": 69,
+          "jmp": 66,
+          "endu": 71,
+          "ins": 61,
+          "dnk": 71,
+          "ft": 61,
+          "fg": 69,
+          "tp": 71,
+          "oiq": 70,
+          "diq": 66,
+          "drb": 46,
+          "pss": 56,
+          "reb": 51,
+          "hgt": 68,
+          "fuzz": 0.4016092723303526,
+          "ovr": 71,
+          "pos": "SF",
+          "pot": 92,
+          "season": 2018,
+          "skills": [
+            "3",
+            "Di",
+            "Dp",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 2,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 2,
+          "type": "godMode"
+        }
+      ],
+      "weight": 185,
+      "pid": 870,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2002,
+        "loc": "USA"
+      },
+      "college": "Kansas",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Dior",
+      "hgt": 71,
+      "hof": false,
+      "imgURL": "https://s3media.247sports.com/Uploads/Assets/694/423/9423694.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Johnson",
+      "moodTraits": [
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 27,
+          "spd": 82,
+          "jmp": 42,
+          "endu": 77,
+          "ins": 62,
+          "dnk": 52,
+          "ft": 67,
+          "fg": 86,
+          "tp": 72,
+          "oiq": 72,
+          "diq": 47,
+          "drb": 80,
+          "pss": 62,
+          "reb": 52,
+          "hgt": 60,
+          "fuzz": -0.22763603727911708,
+          "ovr": 70,
+          "pos": "PG",
+          "pot": 92,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Dp",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 13,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 13,
+          "type": "godMode"
+        }
+      ],
+      "weight": 180,
+      "pos": "PG",
+      "pid": 871,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2002,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Skyy",
+      "hgt": 75,
+      "hof": false,
+      "imgURL": "https://s3media.247sports.com/Uploads/Assets/2/289/9289002.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Clark",
+      "moodTraits": [
+        "$",
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 25,
+          "spd": 74,
+          "jmp": 55,
+          "endu": 75,
+          "ins": 40,
+          "dnk": 60,
+          "ft": 65,
+          "fg": 73,
+          "tp": 76,
+          "oiq": 70,
+          "diq": 60,
+          "drb": 86,
+          "pss": 50,
+          "reb": 25,
+          "hgt": 63,
+          "fuzz": 3.022617419918862,
+          "ovr": 71,
+          "pos": "PG",
+          "pot": 92,
+          "season": 2018,
+          "skills": [
+            "3",
+            "B",
+            "Dp",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 16,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 16,
+          "type": "godMode"
+        }
+      ],
+      "weight": 195,
+      "jerseyNumber": "55",
+      "pos": "PG",
+      "pid": 872,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Johnathan ",
+      "hgt": 78,
+      "hof": false,
+      "imgURL": "https://d1l5jyrrh5eluf.cloudfront.net/wp-content/uploads/2019/11/7-wide.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Kuminga ",
+      "moodTraits": [
+        "$"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 40,
+          "spd": 75,
+          "jmp": 85,
+          "endu": 75,
+          "ins": 85,
+          "dnk": 75,
+          "ft": 60,
+          "fg": 70,
+          "tp": 65,
+          "oiq": 60,
+          "diq": 80,
+          "drb": 55,
+          "pss": 30,
+          "reb": 68,
+          "hgt": 66,
+          "fuzz": -2.654329075178717,
+          "ovr": 74,
+          "pos": "SF",
+          "pot": 91,
+          "season": 2018,
+          "skills": [
+            "3",
+            "A",
+            "Di",
+            "Dp",
+            "Po",
+            "R",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 15,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 15,
+          "type": "godMode"
+        }
+      ],
+      "weight": 210,
+      "pid": 873,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2004,
+        "loc": "Miami, FL"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2017,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "firstName": "Johnathan",
+      "hgt": 81,
+      "hof": false,
+      "imgURL": "https://media.discordapp.net/attachments/838216963511287848/841244846987149312/image0.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Bates",
+      "moodTraits": [
+        "$",
+        "F"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 25,
+          "spd": 55,
+          "jmp": 40,
+          "endu": 55,
+          "ins": 35,
+          "dnk": 50,
+          "ft": 55,
+          "fg": 70,
+          "tp": 75,
+          "oiq": 65,
+          "diq": 55,
+          "drb": 55,
+          "pss": 55,
+          "reb": 60,
+          "hgt": 69,
+          "fuzz": -4.728517327458997,
+          "ovr": 63,
+          "pos": "GF",
+          "pot": 90,
+          "season": 2018,
+          "skills": [
+            "3",
+            "R"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 4,
+          "tid": 10,
+          "type": "godMode"
+        }
+      ],
+      "weight": 220,
+      "jerseyNumber": "21",
+      "pos": "GF",
+      "pid": 874,
+      "exportedSeason": 2018
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 2001,
+        "loc": "Richmond, VA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 0,
+        "exp": 2019
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2018,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.27,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.08
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.99
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "muttonStacheSoul"
+        },
+        "eye": {
+          "id": "eye16",
+          "angle": -4
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": 5
+        },
+        "hair": {
+          "id": "curly3",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose11",
+          "flip": false,
+          "size": 1.17
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Khalil ",
+      "hgt": 77,
+      "hof": false,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Rose Jr.",
+      "moodTraits": [
+        "W"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "stre": 45,
+          "spd": 55,
+          "jmp": 55,
+          "endu": 50,
+          "ins": 35,
+          "dnk": 70,
+          "ft": 55,
+          "fg": 65,
+          "tp": 75,
+          "oiq": 90,
+          "diq": 85,
+          "drb": 80,
+          "pss": 55,
+          "reb": 40,
+          "hgt": 65,
+          "fuzz": -1.621925600264853,
+          "ovr": 77,
+          "pos": "PG",
+          "pot": 91,
+          "season": 2018,
+          "skills": [
+            "3",
+            "Di",
+            "Dp",
+            "Ps",
+            "V"
+          ]
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2019,
+          "amount": 0
+        }
+      ],
+      "stats": [],
+      "tid": 1,
+      "transactions": [
+        {
+          "season": 2018,
+          "phase": 7,
+          "tid": 1,
+          "type": "godMode"
+        }
+      ],
+      "weight": 200,
+      "pos": "PG",
+      "pid": 1131,
+      "exportedSeason": 2018
+    }
+  ],
+  "startingSeason": 2018
+}
